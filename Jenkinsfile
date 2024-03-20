@@ -24,7 +24,7 @@ stages{
                 nexusUrl: '172.31.28.138:8081',
                 nexusVersion: 'nexus3',
                 protocol: 'http',
-                repository: 'sample-releases',
+                repository: 'maven-releases',
                 version: '1.0'
             }
         }
