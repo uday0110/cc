@@ -4,7 +4,7 @@
 	<groupId>in.javahome</groupId>
 	<artifactId>cc</artifactId>
 	<packaging>war</packaging>
-	<version>1.0</version>
+	<version>' '</version>
 	<name>Java Home cc</name>
 	<url>http://maven.apache.org</url>
 	
