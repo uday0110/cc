@@ -15,7 +15,7 @@ stages{
                     [
                         artifactId: 'cc',
                         classifier: '',
-                        file: "cc-1.0.war",
+                        file: "cc.war",
                         type: 'war'
                     ]
                 ],
@@ -25,7 +25,7 @@ stages{
                 nexusVersion: 'nexus3',
                 protocol: 'http',
                 repository: 'maven-releases',
-                version: '1.0'
+                version: ''
             }
         }
   stage('Deploy') {
